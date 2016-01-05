@@ -1,0 +1,15 @@
+.row{
+    margin: 25px auto 25px auto;
+    text-align: center;
+}
+
+.logo-holder{
+    text-align: center;
+    margin: 25% auto 0 auto;
+}
+
+.google-button{
+    margin: auto 5px auto 5px;
+    padding: 0 10px 0 10px;
+    border-radius: 0;
+}
