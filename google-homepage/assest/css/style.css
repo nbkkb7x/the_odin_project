@@ -13,3 +13,33 @@
     padding: 0 10px 0 10px;
     border-radius: 0;
 }
+
+footer{
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    bottom: 0;
+    font-size: 10pt;
+    position: absolute;
+    width: 100%;
+}
+
+.left{
+    float: left;
+}
+
+.footer-link{
+    margin: auto 10px;
+    text-decoration: none;
+    color: #666;
+
+}
+
+.footer-link a{
+    color: #666;
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color: #666;
+}
